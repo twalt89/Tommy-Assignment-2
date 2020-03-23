@@ -147,7 +147,7 @@ canvas{
 .checkButton {
   position:center;
   padding:0px;
-  fill:#9A9A9A;
+  fill:#939393;
 }
 /*hover state to turn check button green*/
 a:hover path {fill:#00C853}
