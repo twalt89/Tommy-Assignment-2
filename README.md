@@ -2,7 +2,9 @@
 Assignment 2 - INTD 219
 
 
-created using
+Created using codepen.io
+
+Project Link:
 https://codepen.io/twalton98/pen/OJVvZmZ
 
 
